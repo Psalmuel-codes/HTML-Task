@@ -1,0 +1,75 @@
+img {
+    width: 150px;
+    height:50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 45%;
+}
+.page {
+    background-color: rgb(252, 252, 252);
+    border: 2px solid rgb(252, 252, 252);
+    border-radius: 10px 10px 10px 0px;
+    background-position: center;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+.login {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.client {
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.top-1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: rgb(6, 6, 83);
+    line-height: 50%;
+    padding-top: 20px;
+    
+}
+.top-2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: black;
+    line-height: 0%;
+}
+button {
+    color: aliceblue;
+    margin-left: 0%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background-color: rgb(11, 11, 87);
+    border: 2px solid rgb(11, 11, 87);
+    border-radius: 10px 10px 10px 0px;
+    padding: 15px 30% 15px 30%;
+    cursor: pointer;
+}
+input {
+    background-color: rgb(235, 236, 236);
+    padding: 10px 50% 10px 10px;
+    color: rgb(85, 85, 85);
+    border: 1px solid #EDF2F7; 
+    border-radius: 3px;
+}
+select {
+    background-color: rgb(235, 236, 236);
+    padding: 10px 36% 10px 10px;
+    font-size: 12px;
+    border: 1px solid #EDF2F7; 
+    border-radius: 6px;
+}
+label {
+    line-height: 30px;
+}
+
